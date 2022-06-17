@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ATMMachine">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATMMachine</output-path>
+    <root id="archive" name="ATMMachine.jar">
+      <element id="module-output" name="1_version2" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

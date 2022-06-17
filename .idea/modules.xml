@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_version1/1_version1.iml" filepath="$PROJECT_DIR$/1_version1/1_version1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_version2/1_version2.iml" filepath="$PROJECT_DIR$/1_version2/1_version2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_version1/5_version1.iml" filepath="$PROJECT_DIR$/5_version1/5_version1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_version2/5_version2.iml" filepath="$PROJECT_DIR$/5_version2/5_version2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课设.iml" filepath="$PROJECT_DIR$/课设.iml" />
+    </modules>
+  </component>
+</project>
