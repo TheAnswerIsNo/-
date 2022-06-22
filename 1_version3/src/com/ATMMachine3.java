@@ -20,7 +20,6 @@ public class ATMMachine3 extends Application {
     public void start(Stage stage) throws Exception {
 
 
-//        lists=deserialization();
         Login login = new Login();
         GridPane gridPane = login.setLogin();
 
